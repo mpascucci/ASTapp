@@ -120,6 +120,6 @@ After taking a picture, make sure that all the following conditions are satisfie
    - There is no strong perspective distortion.
    - The antibiotics labels are sharp and easy to read.
 	
-
-### Copyright ###
-2018 - Marco Pascucci & Guilhem Royer, Fondation Médecins sans Frontières.
+<sub><sup>
+Copyright : 2018 - Marco Pascucci & Guilhem Royer, Fondation Médecins sans Frontières.
+</sup></sub>
