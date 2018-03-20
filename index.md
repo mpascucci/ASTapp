@@ -113,9 +113,10 @@ Optimize the setup until you are satisfied with the picture quality.
 By following this protocol you should be able to take pictures of the same quality of the good images in the [example section](#sec:examples) at the beginning of this document.
 
 After taking a picture, make sure that all the following conditions are satisfied:
-   - The AST is entirely in the picture and does not touch the image borders
-   - If the AST is square, its border should be parallel to the image borders
+   - The AST is entirely in the picture and does not touch the image borders.
+   - If the AST is square, its border should be parallel to the image borders.
    - There is no strong perspective distortion.
+   - The antibiotics labels are sharp and easy to read.
 	
 
 ### Copyright ###
