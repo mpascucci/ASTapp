@@ -12,10 +12,13 @@ This document guides you to acquire good quality AST (Antimicrobial Susceptibili
 Here you can find some examples of good and bad pictures of AST images.
 The picture in the first line are good examples. The other images illustrates common mistakes.
 
-| Examples                                        |                                                            |
+| Examples of good pictures                       |                                                            |
 |:------------------------------------------------|:-----------------------------------------------------------|
 | Good picture.                                   | Good Picture.                                              |
 | ![bad picture][good_sq]                         | ![bad picture][good_circle]                                |
+
+| Examples of bad pictures                        |                                                            |
+|:------------------------------------------------|:-----------------------------------------------------------|
 | Blurred picture, impossible to read the labels. | The Petri dish not entirely in the picture (out of frame). |
 | ![bad picture][bad_blurred]                     | ![bad_picture][bad_oof]                                    |
 | The background is not completely black          | Picture taken from aside. Perspective distortion.          |
