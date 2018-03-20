@@ -10,10 +10,10 @@ This document guides you to acquire good quality AST (Antimicrobial Susceptibili
 ## Examples ##
 
 Here you can find some sexamples of good and bad pictures of AST images.
-The first lines displays good quality pictures. The other images illustrates common mistakes.
-fLyMd-mAkEr
-|                                                 |                                                            |
-|:-----------------------------------------------:|:----------------------------------------------------------:|
+The picture in the first line are good examples. The other images illustrates common mistakes.
+
+| Examples                                        |                                                            |
+|:------------------------------------------------|:-----------------------------------------------------------|
 | Good picture.                                   | Good Picture.                                              |
 | ![bad picture][good_sq]                         | ![bad picture][good_circle]                                |
 | Blurred picture, impossible to read the labels. | The Petri dish not entirely in the picture (out of frame). |
@@ -35,19 +35,18 @@ fLyMd-mAkEr
 
 ## Protocol ##
 
-This protocole guides you to take standardised ATB (antibiogramme) images, which have the appropriate quality for further analysis.
+This protocol guides you to take standardised ATB (antibiogramme) images, which have the appropriate quality for further analysis.
 
 ### Materials ###
 
 - A smartphone (or tablet) with camera (resolution ≥ 12 megapixels)
 - A rectangular piece of matt black felt, which has the size of an A4 (21x30 cm) or larger.
 - A rigid sheet of matt black cardboard, which has the size of an A3 (42 x 60 cm)  or larger.
-- 2 objects that can be used ad stand for the cardboard (see fig 1). Their height should be around 16 cm.
+- 2 objects that can be used ad stand for the cardboard (see fig 1). Their height should be around 16 cm.fLyMd-mAkEr
 
-|                                    |
-|-----------------------------------:|
+| figure 1                          |
+|:----------------------------------|
 | ![](images/protocol_material.jpg) |
-|                           figure 1 |
 
 
 
@@ -59,11 +58,9 @@ It is not advisable to use a table lamp.
 
 Put the piece of black felt (A4) on a flat surface (for example a lab bench) and put the two stands, one on each side of the felt (see fig. 1).
 
-|                                 |
-|--------------------------------:|
+| figure 2                       |
+|:-------------------------------|
 | ![](images/protocol_setup.jpg) |
-|                        figure 2 |
-
 
 
 Make a small hole in the very center of the black cardboard (A3) which is large enough for your smartphone’s camera.
@@ -75,10 +72,10 @@ Put the cardboard on top of the two stands (see fig. 2)
 	4. select the largest size (maximum megapixels) and the highest quality (100%). 
 	
 
-| Mode selection                  | Camera Settings                        |
-|---------------------------------|----------------------------------------|
+| figure 3                        |                                        |
+|:--------------------------------|----------------------------------------|
 | ![](images/Screenshot_AUTO.png) | ![](images/Screenshot_SizeQuality.png) |
-|                                 | figure 3                               |
+| Mode selection                  | Camera settings                        |
 
 
 Put your mobile on the cardboard (screen upside) and center the camera in the hole. Your pictures will be taken through the hole.
@@ -87,11 +84,10 @@ Take and AST and remove the plastic top cover. With the camera application open 
 
 Make sure that the picture background is all black and that the AST is entirely in the picture. The AST should be as large as possible in the picture, with just a small black border around.
 
-
-|                                      |
-|-------------------------------------:|
+	
+| figure 4                             |
+|:-------------------------------------|
 | ![](images/protocol_setup_final.jpg) |
-|                             figure 4 |
 
 
 At this point you might decide to adjust the picture by changing the distance between the camera and the AST.  In order to do this tou can change your cardboard stands or to put something (like a book) under the felt.
