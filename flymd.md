@@ -2,7 +2,7 @@
 	<img src="images/logo-fsmf.png" width="30%">
 </div>
 
-# Image acquisition protocol for AST analysis </h1> #
+# Image acquisition protocol for AST analysis #
 
 ## Introduction ##
 This document guides you to acquire good quality AST (Antimicrobial Susceptibility Testing) images with a smartphone or a tablet.
@@ -30,7 +30,7 @@ The first lines displays good quality pictures. The other images illustrates com
 [bad_op]:images/IMG_20171225_182209_enhanced.jpg
 [bad_oof]:images/bad_frame.jpg
 [bad_pers]:images/bad_perspective.jpg
-[bad_reflex]:images/bad_reflex.jpg
+[bad_reflex]:images/bad_reflex.jpgfLyMd-mAkEr
 
 
 ## Protocol ##
@@ -98,7 +98,7 @@ Check that:
 ### Take the picture ###
 
 Take the picture and check the quality. Zoom on the labels to make sure that they are not blurred. 
-Optimise the setup until you are satisfied with the picture quality.
+Optimize the setup until you are satisfied with the picture quality.
 By following this protocole you should be able to take pictures of the same quality of figure XXX.
 
 After taking a picture, make sure that all the following conditions are satisfied:
