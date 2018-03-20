@@ -1,5 +1,5 @@
-<div style="float:right" align="right">
-	<img src="images/logo-fsmf.png" width="30%">
+<div align="right">
+	<img src="images/logo-fsmf.png" width="20%">
 </div>
 
 # Image acquisition protocol for AST analysis #

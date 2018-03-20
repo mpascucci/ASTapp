@@ -1,8 +1,8 @@
 <div align="right">
-	<img src="images/logo-fsmf.png" width="30%">
+	<img src="images/logo-fsmf.png" width="20%">
 </div>
 
-# Image acquisition protocol for AST analysis #fLyMd-mAkEr
+# Image acquisition protocol for AST analysis #
 
 ## Introduction ##
 This document guides you to acquire good quality AST (Antimicrobial Susceptibility Testing) images with a smartphone or a tablet.
@@ -12,7 +12,7 @@ This document guides you to acquire good quality AST (Antimicrobial Susceptibili
 Here you can find some examples of good and bad pictures of AST images.
 The picture in the first line are good examples. The other images illustrates common mistakes.
 
-| Examples                                        |                                                            |
+| Examples                                        |                                                            |fLyMd-mAkEr
 |:------------------------------------------------|:-----------------------------------------------------------|
 | Good picture.                                   | Good Picture.                                              |
 | ![bad picture][good_sq]                         | ![bad picture][good_circle]                                |
