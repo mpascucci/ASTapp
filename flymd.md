@@ -1,8 +1,8 @@
-<div style="float:right" align="right">
+<div align="right">
 	<img src="images/logo-fsmf.png" width="30%">
 </div>
 
-# Image acquisition protocol for AST analysis #
+# Image acquisition protocol for AST analysis #fLyMd-mAkEr
 
 ## Introduction ##
 This document guides you to acquire good quality AST (Antimicrobial Susceptibility Testing) images with a smartphone or a tablet.
@@ -40,7 +40,7 @@ This protocol guides you through the process of taking standardized AST images, 
 ### Materials ###
 
 - A smartphone (or tablet) with camera (resolution ≥ 12 megapixels)
-- A rectangular piece of matt black [felt](https://en.wikipedia.org/wiki/Felt), the size of an A4 sheet (21x30 cm) or larger.fLyMd-mAkEr
+- A rectangular piece of matt black [felt](https://en.wikipedia.org/wiki/Felt), the size of an A4 sheet (21x30 cm) or larger.
 - A rigid sheet of matt black cardboard, the size of an A3 sheet (42 x 60 cm)  or larger.
 - 2 objects that can be used ad stand for the cardboard (see fig 1). Their height should be about 16 cm.
 
