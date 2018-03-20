@@ -1,5 +1,3 @@
-# Image acquisition protocol #
------
 Page 1
 
 Good picture
@@ -62,4 +60,8 @@ Check that:
 Take the picture
 Take the picture and check the quality. Zoom on the labels to make sure that they are not blurred. 
 Optimise the setup until you are satisfied with the picture quality. By following this protocole you should be able to take pictures of the same quality of figure XXX.
+After taking a picture, make sure that all the following conditions are satisfied:
+The ATB is entirely in the picture and does not touch the image borders.
+If the ATB is square, its border should be parallel to the image borders
+There is no strong perspective distortion. 
 
