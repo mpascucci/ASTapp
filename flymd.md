@@ -7,9 +7,9 @@
 ## Introduction ##
 This document guides you to acquire good quality AST (Antimicrobial Susceptibility Testing) images with a smartphone or a tablet.
 
-## Examples ##
+## <a name="sec:examples"></a> Examples ##
 
-Here you can find some sexamples of good and bad pictures of AST images.
+Here you can find some examples of good and bad pictures of AST images.
 The picture in the first line are good examples. The other images illustrates common mistakes.
 
 | Examples                                        |                                                            |
@@ -35,14 +35,14 @@ The picture in the first line are good examples. The other images illustrates co
 
 ## Protocol ##
 
-This protocol guides you to take standardised ATB (antibiogramme) images, which have the appropriate quality for further analysis.
+This protocol guides you through the process of taking standardized AST images, which have the appropriate quality for further analysis.
 
 ### Materials ###
 
 - A smartphone (or tablet) with camera (resolution ≥ 12 megapixels)
-- A rectangular piece of matt black felt, which has the size of an A4 (21x30 cm) or larger.
-- A rigid sheet of matt black cardboard, which has the size of an A3 (42 x 60 cm)  or larger.
-- 2 objects that can be used ad stand for the cardboard (see fig 1). Their height should be around 16 cm.fLyMd-mAkEr
+- A rectangular piece of matt black [felt](https://en.wikipedia.org/wiki/Felt), the size of an A4 sheet (21x30 cm) or larger.
+- A rigid sheet of matt black cardboard, the size of an A3 sheet (42 x 60 cm)  or larger.
+- 2 objects that can be used ad stand for the cardboard (see fig 1). Their height should be about 16 cm.
 
 | figure 1                          |
 |:----------------------------------|
@@ -56,7 +56,7 @@ Choose a bright environment to install the image acquisition setup.
 Light should be uniform and diffuse. The light sources (windows, lamps) should not be too close to the AST.
 It is not advisable to use a table lamp.
 
-Put the piece of black felt (A4) on a flat surface (for example a lab bench) and put the two stands, one on each side of the felt (see fig. 1).
+Put the piece of black felt (A4) on a flat surface (for example a lab bench). Position the two stands, one on each side of the felt (see fig. 1).
 
 | figure 2                       |
 |:-------------------------------|
@@ -80,9 +80,11 @@ Put the cardboard on top of the two stands (see fig. 2)
 
 Put your mobile on the cardboard (screen upside) and center the camera in the hole. Your pictures will be taken through the hole.
 
-Take and AST and remove the plastic top cover. With the camera application open and running, so that you can see the image on your smartphone’s screen,  put the AST on the black felt.
+Take and AST and remove the plastic top cover. Position the AST on the black felt.
+If the camera application is open and running, you can see the image on your smartphone’s screen.
 
-Make sure that the picture background is all black and that the AST is entirely in the picture. The AST should be as large as possible in the picture, with just a small black border around.
+Make sure that the picture's background is all black and that the AST is entirely in the picture.
+The AST should be as large as possible in the picture, with just a small black border around.
 
 	
 | figure 4                             |
@@ -90,12 +92,13 @@ Make sure that the picture background is all black and that the AST is entirely 
 | ![](images/protocol_setup_final.jpg) |
 
 
-At this point you might decide to adjust the picture by changing the distance between the camera and the AST.  In order to do this tou can change your cardboard stands or to put something (like a book) under the felt.
+At this point you might decide to adjust the picture by changing the distance between the camera and the AST.
+In order to do so you can change your cardboard stands or to put something (like a book) under the felt.
 
 ### Ready to take the picture ###
 
-Look at the image on on your smartphone and compare it with the examples at the beginning of this document.
-Check that:
+Look at the image on on your smartphone and compare it with the [example section](#sec:examples) at the beginning of this document.
+Check that:fLyMd-mAkEr
 - the AST is not out of frame
 - the antibiotic labels are on focus (not blurred)
 - there are no shadows or light reflection on the AST
@@ -104,7 +107,7 @@ Check that:
 
 Take the picture and check the quality. Zoom on the labels to make sure that they are not blurred. 
 Optimize the setup until you are satisfied with the picture quality.
-By following this protocol you should be able to take pictures of the same quality of figure XXX.
+By following this protocol you should be able to take pictures of the same quality of the good images in the [example section](#sec:examples) at the beginning of this document.
 
 After taking a picture, make sure that all the following conditions are satisfied:
    - The AST is entirely in the picture and does not touch the image borders
