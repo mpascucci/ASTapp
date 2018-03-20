@@ -63,7 +63,7 @@ Put the piece of black felt (A4) on a flat surface (for example a lab bench). Po
 
 | figure 2                       |
 |:-------------------------------|
-| ![](images/protocol_setup.jpg =100%x100%) |
+| ![](images/protocol_setup.jpg) |
 
 
 Make a small hole in the very center of the black cardboard (A3) which is large enough for your smartphone’s camera.
