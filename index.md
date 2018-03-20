@@ -122,4 +122,4 @@ After taking a picture, make sure that all the following conditions are satisfie
 	
 
 ### Copyright ###
-2018 - Marco Pascucci, Fondation Médecins sans Frontières.
+2018 - Marco Pascucci & Guilhem Royer, Fondation Médecins sans Frontières.
