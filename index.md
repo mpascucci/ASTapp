@@ -61,13 +61,13 @@ It is not advisable to use a table lamp.
 
 Put the piece of black felt (A4) on a flat surface (for example a lab bench). Position the two stands, one on each side of the felt (see fig. 1).
 
+Make a small hole in the very center of the black cardboard (A3) which is large enough for your smartphone’s camera.
+Put the cardboard on top of the two stands (see fig. 2)
+
 | figure 2                       |
 |:-------------------------------|
 | ![](images/protocol_setup.jpg) |
 
-
-Make a small hole in the very center of the black cardboard (A3) which is large enough for your smartphone’s camera.
-Put the cardboard on top of the two stands (see fig. 2)
 - On your smartphone, open the camera application and do the following setup:
 	1. deactivate the flash light.
 	2. set the countdown timer to 5 seconds.
