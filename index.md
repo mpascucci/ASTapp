@@ -1,4 +1,5 @@
-# Image acquisition protocol for ATB analysis #
+# Image acquisition protocol #
+# for ATB analysis #
 
 ## Introduction ##
 
