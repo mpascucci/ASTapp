@@ -1,4 +1,4 @@
-# Image acquisition protocole for ATB analysis #
+# Image acquisition protocol for ATB analysis #
 
 ## Introduction ##
 
@@ -16,7 +16,7 @@ The background is not completely black
 picture taken from aside. Perspective distortion.
 
 
-## Protocole ##
+## Protocol ##
 
 This protocole guides you to take standardised ATB (antibiogramme) images, which have the appropriate quality for further analysis.
 
