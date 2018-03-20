@@ -117,3 +117,6 @@ After taking a picture, make sure that all the following conditions are satisfie
    - If the AST is square, its border should be parallel to the image borders
    - There is no strong perspective distortion.
 	
+
+### Copyright ###
+2018 - Marco Pascucci, Fondation Médecins sans Frontières.
