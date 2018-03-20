@@ -66,7 +66,7 @@ Put the piece of black felt (A4) on a flat surface (for example a lab bench). Po
 Make a small hole in the very center of the black cardboard (A3) which is large enough for your smartphone’s camera.
 Put the cardboard on top of the two stands (see fig. 2)
 - On your smartphone, open the camera application and do the following setup:
-	1. deactivate the flash light.fLyMd-mAkEr
+	1. deactivate the flash light.
 	2. set the countdown timer to 5 seconds.
 	3. select the program to AUTO
 	4. select the largest size (maximum megapixels) and the highest quality (100%). 
@@ -97,7 +97,7 @@ In order to do so you can change your cardboard stands or to put something (like
 
 ### Ready to take the picture ###
 
-Look at the image on on your smartphone and compare it with the [example section](#sec:examples) at the beginning of this document.
+Look at the image on on your smartphone and compare it with the [example section](#sec:examples) at the beginning of this document.fLyMd-mAkEr
 Check that:
 - the AST is not out of frame
 - the antibiotic labels are on focus (not blurred)
