@@ -40,7 +40,7 @@ This protocol guides you through the process of taking standardized AST images, 
 ### Materials ###
 
 - A smartphone (or tablet) with camera (resolution ≥ 12 megapixels)
-- A rectangular piece of matt black [felt](https://en.wikipedia.org/wiki/Felt), the size of an A4 sheet (21x30 cm) or larger.
+- A rectangular piece of matt black [felt](https://en.wikipedia.org/wiki/Felt), the size of an A4 sheet (21x30 cm) or larger.fLyMd-mAkEr
 - A rigid sheet of matt black cardboard, the size of an A3 sheet (42 x 60 cm)  or larger.
 - 2 objects that can be used ad stand for the cardboard (see fig 1). Their height should be about 16 cm.
 
@@ -98,7 +98,7 @@ In order to do so you can change your cardboard stands or to put something (like
 ### Ready to take the picture ###
 
 Look at the image on on your smartphone and compare it with the [example section](#sec:examples) at the beginning of this document.
-Check that:fLyMd-mAkEr
+Check that:
 - the AST is not out of frame
 - the antibiotic labels are on focus (not blurred)
 - there are no shadows or light reflection on the AST
