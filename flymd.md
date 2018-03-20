@@ -74,7 +74,7 @@ Put the cardboard on top of the two stands (see fig. 2)
 
 | figure 3                        |                                        |
 |:--------------------------------|----------------------------------------|
-| ![](images/Screenshot_AUTO.png) | ![](images/Screenshot_SizeQuality.png) |
+| ![](images/Screenshot_AUTO.png) | ![](images/Screenshot_SizeQuality.png) |fLyMd-mAkEr
 | Mode selection                  | Camera settings                        |
 
 
@@ -97,7 +97,7 @@ In order to do so you can change your cardboard stands or to put something (like
 
 ### Ready to take the picture ###
 
-Look at the image on on your smartphone and compare it with the [example section](#sec:examples) at the beginning of this document.fLyMd-mAkEr
+Look at the image on on your smartphone and compare it with the [example section](#sec:examples) at the beginning of this document.
 Check that:
 - the AST is not out of frame
 - the antibiotic labels are on focus (not blurred)
