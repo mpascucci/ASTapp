@@ -12,7 +12,7 @@ This document guides you to acquire good quality AST (Antimicrobial Susceptibili
 Here you can find some examples of good and bad pictures of AST images.
 The picture in the first line are good examples. The other images illustrates common mistakes.
 
-| Examples                                        |                                                            |fLyMd-mAkEr
+| Examples                                        |                                                            |
 |:------------------------------------------------|:-----------------------------------------------------------|
 | Good picture.                                   | Good Picture.                                              |
 | ![bad picture][good_sq]                         | ![bad picture][good_circle]                                |
@@ -60,13 +60,13 @@ Put the piece of black felt (A4) on a flat surface (for example a lab bench). Po
 
 | figure 2                       |
 |:-------------------------------|
-| ![](images/protocol_setup.jpg) |
+| ![](images/protocol_setup.jpg =100%x100%) |
 
 
 Make a small hole in the very center of the black cardboard (A3) which is large enough for your smartphone’s camera.
 Put the cardboard on top of the two stands (see fig. 2)
 - On your smartphone, open the camera application and do the following setup:
-	1. deactivate the flash light.
+	1. deactivate the flash light.fLyMd-mAkEr
 	2. set the countdown timer to 5 seconds.
 	3. select the program to AUTO
 	4. select the largest size (maximum megapixels) and the highest quality (100%). 
