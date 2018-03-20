@@ -11,7 +11,7 @@ This document guides you to acquire good quality AST (Antimicrobial Susceptibili
 
 Here you can find some sexamples of good and bad pictures of AST images.
 The first lines displays good quality pictures. The other images illustrates common mistakes.
-
+fLyMd-mAkEr
 |                                                 |                                                            |
 |:-----------------------------------------------:|:----------------------------------------------------------:|
 | Good picture.                                   | Good Picture.                                              |
@@ -30,7 +30,7 @@ The first lines displays good quality pictures. The other images illustrates com
 [bad_op]:images/IMG_20171225_182209_enhanced.jpg
 [bad_oof]:images/bad_frame.jpg
 [bad_pers]:images/bad_perspective.jpg
-[bad_reflex]:images/bad_reflex.jpgfLyMd-mAkEr
+[bad_reflex]:images/bad_reflex.jpg
 
 
 ## Protocol ##
@@ -46,20 +46,22 @@ This protocole guides you to take standardised ATB (antibiogramme) images, which
 
 |                                    |
 |-----------------------------------:|
-| ![](images/protocole_material.jpg) |
+| ![](images/protocol_material.jpg) |
 |                           figure 1 |
 
 
 
 ### Setup ###
 
-Choose a bright environment to install the image acquisition setup. Light should be uniform and diffuse. The light sources (windows, lamps) should not be too close to the antibiograms. It is not advisable to use a table lamp.
+Choose a bright environment to install the image acquisition setup.
+Light should be uniform and diffuse. The light sources (windows, lamps) should not be too close to the AST.
+It is not advisable to use a table lamp.
 
 Put the piece of black felt (A4) on a flat surface (for example a lab bench) and put the two stands, one on each side of the felt (see fig. 1).
 
 |                                 |
 |--------------------------------:|
-| ![](images/protocole_setup.jpg) |
+| ![](images/protocol_setup.jpg) |
 |                        figure 2 |
 
 
@@ -85,11 +87,18 @@ Take and AST and remove the plastic top cover. With the camera application open 
 
 Make sure that the picture background is all black and that the AST is entirely in the picture. The AST should be as large as possible in the picture, with just a small black border around.
 
+
+|                                      |
+|-------------------------------------:|
+| ![](images/protocol_setup_final.jpg) |
+|                             figure 4 |
+
+
 At this point you might decide to adjust the picture by changing the distance between the camera and the AST.  In order to do this tou can change your cardboard stands or to put something (like a book) under the felt.
 
 ### Ready to take the picture ###
 
-Look at the image on on your smartphone and compare it with the examples in figure XXX.
+Look at the image on on your smartphone and compare it with the examples at the beginning of this document.
 Check that:
 - the AST is not out of frame
 - the antibiotic labels are on focus (not blurred)
@@ -99,7 +108,7 @@ Check that:
 
 Take the picture and check the quality. Zoom on the labels to make sure that they are not blurred. 
 Optimize the setup until you are satisfied with the picture quality.
-By following this protocole you should be able to take pictures of the same quality of figure XXX.
+By following this protocol you should be able to take pictures of the same quality of figure XXX.
 
 After taking a picture, make sure that all the following conditions are satisfied:
    - The AST is entirely in the picture and does not touch the image borders
