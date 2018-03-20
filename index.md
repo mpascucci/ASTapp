@@ -39,7 +39,10 @@ Put the piece of black felt (A4) on a flat surface (for example a lab bench) and
 Make a small hole in the very center of the black cardboard (A3) which is large enough for your smartphone’s camera.
 Put the cardboard on top of the two stands (see picture XXX)
 - On your smartphone, open the camera application and do the following setup:
-	1) deactivate the flash light. 2) set the countdown timer to 5 seconds. 3) select the program to AUTO 4) select the largest SIZE (maximum megapixels and the highest quality (100%). 
+	1) deactivate the flash light.
+	2) set the countdown timer to 5 seconds.
+	3) select the program to AUTO 4) select the largest SIZE (maximum megapixels and the highest quality (100%). 
+	
 Put your mobile on the cardboard (screen upside) and center the camera in the hole. Your pictures will be taken through the hole.
 Take and ATH and remove the plastic top cover. With the camera application open and running, so that you can see the image on your smartphone’s screen,  put the ATB on the black felt.
 Make sure that the picture background is all black and that the ATB is entirely in the picture. The ATB should be as large as possible in the picture, with just a small black border around.
