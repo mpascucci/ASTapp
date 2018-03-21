@@ -17,6 +17,8 @@ The picture in the first line are good examples. The other images illustrates co
 | Good picture.                                   | Good Picture.                                              |
 | ![bad picture][good_sq]                         | ![bad picture][good_circle]                                |
 
+
+
 | Examples of bad pictures                        |                                                            |
 |:------------------------------------------------|:-----------------------------------------------------------|
 | Blurred picture, impossible to read the labels. | The Petri dish not entirely in the picture (out of frame). |
