@@ -17,7 +17,7 @@ The picture in the first line are good examples. The other images illustrates co
 | Good picture.                                   | Good Picture.                                              |
 | ![bad picture][good_sq]                         | ![bad picture][good_circle]                                |
 
-
+<vspan heigth=2em>
 
 | Examples of bad pictures                        |                                                            |
 |:------------------------------------------------|:-----------------------------------------------------------|
