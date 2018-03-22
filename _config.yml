@@ -1,3 +1,7 @@
-remote_theme: Long Haul
-
 theme: jekyll-theme-cayman
+
+title : AST image acquisition protocol
+description : guidelines to take good quality pictures of Antimicrobial Susceptibility Tests.
+
+show_downloads : false
+show_github : false
