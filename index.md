@@ -1,10 +1,9 @@
-
-<!-- # Image acquisition protocol for AST analysis # -->
+{% include nav.html %}
 
 # Introduction #
 This document guides you thought the process of acquiring good quality AST (Antimicrobial Susceptibility Testing) images with a smartphone or a tablet.
 
-# <a name="sec:examples"></a> Examples #
+# Examples <a name="examples"></a> #
 
 Here you can find some examples of good and bad pictures of AST images.
 The picture in the first line are good examples. The other images illustrates common mistakes.
@@ -36,11 +35,13 @@ The picture in the first line are good examples. The other images illustrates co
 [bad_reflex]:images/bad_reflex.jpg
 
 
+<hr id="my_hr">
+
 # Protocol #
 
 Follow these instruction for the acquisition of AST images.
 
-## Materials ##
+## Materials <a name="materials"></a> ##
 
 For the acquisition you will need:
 
@@ -55,7 +56,7 @@ For the acquisition you will need:
 
 
 
-## Setup ##
+## Setup <a name="setup"></a> ##
 
 Choose a bright environment to install the image acquisition setup.
 Light should be uniform and diffuse. The light sources (windows, lamps) should not be too close to the AST.
@@ -100,19 +101,19 @@ The AST should be as large as possible in the picture, with just a small black b
 At this point you might decide to adjust the picture by changing the distance between the camera and the AST.
 In order to do so you can change your cardboard stands or put something thick (like a book) under the felt.
 
-## Ready to take the picture ##
+## Ready to take the picture <a name="ready"></a> ##
 
-Look at the image on on your smartphone and compare it with those in the [example section](#sec:examples) at the beginning of this document.
+Look at the image on on your smartphone and compare it with those in the [example section](#examples) at the beginning of this document.
 Check that:
 - the AST is not out of frame
 - the antibiotic labels are on focus (not blurred)
 - there are no shadows or light reflection on the AST
 
-## Take the picture ##
+## Take the picture <a name="go"></a> ##
 
 Take the picture and check the quality. Zoom in on the labels to make sure that they are not blurred. 
 Optimize the setup until you are satisfied with the picture quality.
-By following this protocol you should be able to take pictures of the same quality as the good images in the [example section](#sec:examples) at the beginning of this document.
+By following this protocol you should be able to take pictures of the same quality as the good images in the [example section](#examples) at the beginning of this document.
 
 After taking a picture, make sure that all the following conditions are satisfied:
    - The AST is entirely in the picture and does not touch the image borders.
