@@ -2,7 +2,7 @@
 <!-- # Image acquisition protocol for AST analysis # -->
 
 # Introduction #
-This document guides you throught the process of acquiring good quality AST (Antimicrobial Susceptibility Testing) images with a smartphone or a tablet.
+This document guides you thought the process of acquiring good quality AST (Antimicrobial Susceptibility Testing) images with a smartphone or a tablet.
 
 # <a name="sec:examples"></a> Examples #
 
@@ -23,7 +23,7 @@ The picture in the first line are good examples. The other images illustrates co
 | ![bad picture][bad_blurred]                     | ![bad_picture][bad_oof]                                    |
 | The background is not completely black          | Picture taken from aside. Perspective distortion.          |
 | ![bad picture][bad_no_black]                    | ![bad_picture][bad_pers]                                   |
-| Light reflexion                                 | Operator's reflexion                                       |
+| Light reflection                                | Operator's reflection                                      |
 | ![bad_picture][bad_reflex]                      | ![bad_picture][bad_op]                                     |
 
 [bad_no_black]:images/IMG_20180130_205107.jpg
