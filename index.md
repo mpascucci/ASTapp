@@ -10,23 +10,6 @@ Here you can find some examples of good and bad pictures of AST images.
 The picture in the first line are good examples. The other images illustrates common mistakes.
 
 
-| Examples of good pictures                               |                                                         |
-|:--------------------------------------------------------|:--------------------------------------------------------|
-| Good picture.                                           | Good Picture.                                           |
-| <img src="images/IMG_20180130_205107.jpg" width="100%"> | <img src="images/IMG_20180107_183954.jpg" width="100%"> |
-
-<br>
-
-| Examples of bad pictures                                |                                                                  |
-|:--------------------------------------------------------|:-----------------------------------------------------------------|
-| Blurred picture, impossible to read the labels.         | The Petri dish not entirely in the picture (out of frame).       |
-| <img src="images/IMG_20180107_183257.jpg" width="100%"> | <img src="images/bad_frame.jpg" width="100%">                    |
-| The background is not completely black                  | Picture taken from aside. Perspective distortion.                |
-| <img src="images/IMG_20180130_205107.jpg" width="100%"> | <img src="images/bad_perspective.jpg" width="100%">              |
-| Light reflexion                                         | Operator's reflexion                                             |
-| <img src="images/bad_reflex.jpg" width="100%">          | <img src="images/IMG_20171225_182209_enhanced.jpg" width="100%"> |
-
-<!--
 | Examples of good pictures                       |                                                            |
 |:------------------------------------------------|:-----------------------------------------------------------|
 | Good picture.                                   | Good Picture.                                              |
@@ -51,7 +34,7 @@ The picture in the first line are good examples. The other images illustrates co
 [bad_oof]:images/bad_frame.jpg
 [bad_pers]:images/bad_perspective.jpg
 [bad_reflex]:images/bad_reflex.jpg
--->
+
 
 # Protocol #
 
