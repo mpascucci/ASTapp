@@ -1,15 +1,32 @@
 
+<!-- # Image acquisition protocol for AST analysis # -->
 
-# Image acquisition protocol for AST analysis #
-
-## Introduction ##
+# Introduction #
 This document guides you throught the process of acquiring good quality AST (Antimicrobial Susceptibility Testing) images with a smartphone or a tablet.
 
-## <a name="sec:examples"></a> Examples ##
+# <a name="sec:examples"></a> Examples #
 
 Here you can find some examples of good and bad pictures of AST images.
 The picture in the first line are good examples. The other images illustrates common mistakes.
 
+
+| Examples of good pictures                               |                                                         |
+|:--------------------------------------------------------|:--------------------------------------------------------|
+| Good picture.                                           | Good Picture.                                           |
+| <img src="images/IMG_20180130_205107.jpg" width="100%"> | <img src="images/IMG_20180107_183954.jpg" width="100%"> |
+
+<br>
+
+| Examples of bad pictures                                |                                                                  |
+|:--------------------------------------------------------|:-----------------------------------------------------------------|
+| Blurred picture, impossible to read the labels.         | The Petri dish not entirely in the picture (out of frame).       |
+| <img src="images/IMG_20180107_183257.jpg" width="100%"> | <img src="images/bad_frame.jpg" width="100%">                    |
+| The background is not completely black                  | Picture taken from aside. Perspective distortion.                |
+| <img src="images/IMG_20180130_205107.jpg" width="100%"> | <img src="images/bad_perspective.jpg" width="100%">              |
+| Light reflexion                                         | Operator's reflexion                                             |
+| <img src="images/bad_reflex.jpg" width="100%">          | <img src="images/IMG_20171225_182209_enhanced.jpg" width="100%"> |
+
+<!--
 | Examples of good pictures                       |                                                            |
 |:------------------------------------------------|:-----------------------------------------------------------|
 | Good picture.                                   | Good Picture.                                              |
@@ -34,13 +51,13 @@ The picture in the first line are good examples. The other images illustrates co
 [bad_oof]:images/bad_frame.jpg
 [bad_pers]:images/bad_perspective.jpg
 [bad_reflex]:images/bad_reflex.jpg
+-->
 
-
-## Protocol ##
+# Protocol #
 
 Follow these instruction for the acquisition of AST images.
 
-### Materials ###
+## Materials ##
 
 For the acquisition you will need:
 
@@ -55,7 +72,7 @@ For the acquisition you will need:
 
 
 
-### Setup ###
+## Setup ##
 
 Choose a bright environment to install the image acquisition setup.
 Light should be uniform and diffuse. The light sources (windows, lamps) should not be too close to the AST.
@@ -92,15 +109,15 @@ Make sure that the picture's background is all black and that the AST is entirel
 The AST should be as large as possible in the picture, with just a small black border around.
 
 	
-| figure 4                             |
-|:-------------------------------------|
-| ![](images/protocol_setup_final.jpg) |
+| figure 4                                                 |
+|:---------------------------------------------------------|
+| <img src="images/protocol_setup_final.jpg" width="100%"> |
 
 
 At this point you might decide to adjust the picture by changing the distance between the camera and the AST.
 In order to do so you can change your cardboard stands or put something thick (like a book) under the felt.
 
-### Ready to take the picture ###
+## Ready to take the picture ##
 
 Look at the image on on your smartphone and compare it with those in the [example section](#sec:examples) at the beginning of this document.
 Check that:
@@ -108,7 +125,7 @@ Check that:
 - the antibiotic labels are on focus (not blurred)
 - there are no shadows or light reflection on the AST
 
-### Take the picture ###
+## Take the picture ##
 
 Take the picture and check the quality. Zoom in on the labels to make sure that they are not blurred. 
 Optimize the setup until you are satisfied with the picture quality.
@@ -119,7 +136,3 @@ After taking a picture, make sure that all the following conditions are satisfie
    - If the AST is square, its border should be parallel to the image borders.
    - There is no strong perspective distortion.
    - The antibiotics labels are sharp and easy to read.
-	
-<sub><sup>
-Copyright : 2018 - Marco Pascucci & Guilhem Royer, Fondation Médecins sans Frontières.
-</sup></sub>
