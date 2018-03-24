@@ -3,7 +3,7 @@
 # Introduction #
 This document guides you thought the process of acquiring good quality AST (Antimicrobial Susceptibility Testing) images with a smartphone or a tablet.
 
-# Examples <a name="examples"></a> #
+# <a name="examples"></a> Examples #
 
 Here you can find some examples of good and bad pictures of AST images.
 The picture in the first line are good examples. The other images illustrates common mistakes.
@@ -41,7 +41,7 @@ The picture in the first line are good examples. The other images illustrates co
 
 Follow these instruction for the acquisition of AST images.
 
-## Materials <a name="materials"></a> ##
+## <a name="materials"></a> Materials ##
 
 For the acquisition you will need:
 
@@ -56,7 +56,7 @@ For the acquisition you will need:
 
 
 
-## Setup <a name="setup"></a> ##
+## <a name="setup"></a> Setup ##
 
 Choose a bright environment to install the image acquisition setup.
 Light should be uniform and diffuse. The light sources (windows, lamps) should not be too close to the AST.
