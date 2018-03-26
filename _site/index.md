@@ -9,10 +9,10 @@ Here you can find some examples of good and bad pictures of AST images.
 The picture in the first line are good examples. The other images illustrates common mistakes.
 
 
-| Examples of good pictures                       |                                                            |
-|:------------------------------------------------|:-----------------------------------------------------------|
-| Good picture.                                   | Good Picture.                                              |
-| ![bad picture][good_sq]                         | ![bad picture][good_circle]                                |
+| Examples of good pictures                  |                                            |
+|:-------------------------------------------|:-------------------------------------------|
+| <i class="fas fa-check"></i> Good picture. | <i class="fas fa-check"></i> Good Picture. |
+| ![bad picture][good_sq]                    | ![bad picture][good_circle]                |
 
 <br><br>
 
