@@ -1,5 +1,21 @@
 {% include nav.html %}
 
+<style>
+ .gt {
+     color : green;
+ }
+ .rt {
+     color : red;
+ }
+ .rbg {
+     background-color:#ecc;
+ }
+ .gbg {
+     background-color:#cec;
+ }
+ 
+</style>
+
 # Introduction #
 This document guides you thought the process of acquiring good quality AST (Antimicrobial Susceptibility Testing) images with a smartphone or a tablet.
 
@@ -8,32 +24,93 @@ This document guides you thought the process of acquiring good quality AST (Anti
 Here you can find some examples of good and bad pictures of AST images.
 The picture in the first line are good examples. The other images illustrates common mistakes.
 
+<!-- 
 
-| Examples of good pictures                  |                                            |
-|:-------------------------------------------|:-------------------------------------------|
-| <i class="fas fa-check"></i> Good picture. | <i class="fas fa-check"></i> Good Picture. |
-| ![bad picture][good_sq]                    | ![bad picture][good_circle]                |
+     | Examples of good pictures                     |                                               |
+     |:----------------------------------------------|:----------------------------------------------|
+     | <i class="fas fa-check gt"></i> Good picture. | <i class="fas fa-check gt"></i> Good Picture. |
+     | ![bad picture][good_sq]                       | ![bad picture][good_circle]                   |
+
+     [good_sq]:images/IMG_20180107_183954.jpg
+     [good_circle]:images/IMG_20180107_184123.jpg
+-->
+
+<table>
+    <thead>
+	<tr>
+	    <th style="text-align: left; width:50%;">Examples of good pictures</th>
+	    <th style="text-align: left; width:50%;"></th>
+	</tr>
+    </thead>
+    <tbody>
+	<tr>
+	    <td class="gbg"><i class="fas fa-check gt"></i> Good picture.</td>
+	    <td class="gbg"><i class="fas fa-check gt"></i> Good Picture.</td>
+	</tr>
+	<tr>
+	    <td class="gbg"><img src="images/IMG_20180107_183954.jpg" alt="bad picture" /></td>
+	    <td class="gbg"><img src="images/IMG_20180107_184123.jpg" alt="bad picture" /></td>
+	</tr>
+    </tbody>
+</table>
 
 <br><br>
 
-| Examples of bad pictures                        |                                                            |
-|:------------------------------------------------|:-----------------------------------------------------------|
-| Blurred picture, impossible to read the labels. | The Petri dish not entirely in the picture (out of frame). |
-| ![bad picture][bad_blurred]                     | ![bad_picture][bad_oof]                                    |
-| The background is not completely black          | Picture taken from aside. Perspective distortion.          |
-| ![bad picture][bad_no_black]                    | ![bad_picture][bad_pers]                                   |
-| Light reflection                                | Operator's reflection                                      |
-| ![bad_picture][bad_reflex]                      | ![bad_picture][bad_op]                                     |
+<table>
+    <thead>
+	<tr>
+	    <th style="text-align: left; width:50%;">Examples of bad pictures</th>
+	    <th style="text-align: left; width : 50%;"> </th>
+	</tr>
+    </thead>
+    <tbody>
+	<tr>
+	    <td class="rbg"><i class="fas fa-times rt"></i> Blurred picture, impossible to read the labels</td>
+	    <td class="rbg"><i class="fas fa-times rt"></i> The Petri dish not entirely in the picture (out of frame)</td>
+	</tr>
+	<tr>
+	    <td class="rbg"><img src="images/IMG_20180107_183257.jpg" alt="bad picture" /></td>
+	    <td class="rbg"><img src="images/bad_frame.jpg" alt="bad_picture" /></td>
+	</tr>
+	<tr>
+	    <td class="rbg"><i class="fas fa-times rt"></i> The background is not completely black</td>
+	    <td class="rbg"><i class="fas fa-times rt"></i> Picture taken from aside. Perspective distortion</td>
+	</tr>
+	<tr>
+	    <td class="rbg"><img src="images/IMG_20180130_205107.jpg" alt="bad picture" /></td>
+	    <td class="rbg"><img src="images/bad_perspective.jpg" alt="bad_picture" /></td>
+	</tr>
+	<tr>
+	    <td class="rbg"><i class="fas fa-times rt"></i> Light reflection</td>
+	    <td class="rbg"><i class="fas fa-times rt"></i> Operator’s reflection</td>
+	</tr>
+	<tr>
+	    <td class="rbg"><img src="images/bad_reflex.jpg" alt="bad_picture" /></td>
+	    <td class="rbg"><img src="images/IMG_20171225_182209_enhanced.jpg" alt="bad_picture" /></td>
+	</tr>
+    </tbody>
+</table>
+
+<!--
+
+| Examples of bad pictures                                                        |                                                            |
+|:--------------------------------------------------------------------------------|:-----------------------------------------------------------|
+| <i class="fas fa-times rt"></i> Blurred picture, impossible to read the labels. | The Petri dish not entirely in the picture (out of frame). |
+| ![bad picture][bad_blurred]                                                     | ![bad_picture][bad_oof]                                    |
+| The background is not completely black                                          | Picture taken from aside. Perspective distortion.          |
+| ![bad picture][bad_no_black]                                                    | ![bad_picture][bad_pers]                                   |
+| Light reflection                                                                | Operator's reflection                                      |
+| ![bad_picture][bad_reflex]                                                      | ![bad_picture][bad_op]                                     |
 
 [bad_no_black]:images/IMG_20180130_205107.jpg
-[good_sq]:images/IMG_20180107_183954.jpg
-[good_circle]:images/IMG_20180107_184123.jpg
+
 [bad_blurred]:images/IMG_20180107_183257.jpg
 [bad_op]:images/IMG_20171225_182209_enhanced.jpg
 [bad_oof]:images/bad_frame.jpg
 [bad_pers]:images/bad_perspective.jpg
 [bad_reflex]:images/bad_reflex.jpg
 
+-->
 
 <hr id="my_hr">
 
