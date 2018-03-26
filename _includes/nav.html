@@ -6,57 +6,83 @@
 
 
         <style>
-	 .nav {
-	     list-style-type: none;
-	     margin: 0;
-	     padding: 0;
-	     overflow: hidden;
-	     background-color: #ddd;
-	 }
+         .nav {
+             list-style-type: none;
+             margin: 0;
+             padding: 0;
+             overflow: hidden;
+	     background-color: #ddd;	     
 
-	 .nav li {
-	     float: left;
-	     border-right: 1px solid white;
-	 }
-	 
-	 .nav li:last-child {
-	     border-right: none;
-	 }
-	 .nav li a {
-	     display: block;
-	     color: #155799;
-	     text-align: center;
-	     padding: 14px 16px;
-	     text-decoration: none;
-	 }
-	 
-	 /* Change the link color to #111 (black) on hover */
-	 .nav li a:hover {
-	     background-color: #eee;
-	     color : red;
-	 }
+         }
 
-	 #my_hr  {
-	     display: block;
-	     height: 5px;
-	     border: 0;
-	     border-top: 2px solid red;
-	     background-color : #ddd;
-	     margin: 1em 0;
-	     padding: 0; 
+         .nav li {
+             float: left;
+             border-right: 1px solid white;
+         }
+
+         .nav li:last-child {
+             border-right: none;
+         }
+         .nav li a {
+             display: block;
+             color: #155799;
+             text-align: center;
+             padding: 14px 16px;
+             text-decoration: none;
+         }
+
+         /* Change the link color to #111 (black) on hover */
+         .nav li a:hover {
+             background-color: #eee;
+             color : red;
+         }
+
+         #my_hr  {
+             display: block;
+             height: 5px;
+             border: 0;
+             border-top: 2px solid red;
+             background-color : #ddd;
+             margin: 1em 0;
+             padding: 0;
+         }
+
+	 /* small screen sizes */
+	 @media (max-width: 780px) {
+	     .mobile-only {
+		 display: inline-block !important;
+		 /*clear : both !important;*/
+		 width : 50%;
+		 border-bottom : 1px solid white;
+
+	     }
+	     .nav li a {
+		 padding: 8px 0px;
+             }
+	     .desktop-only {}
 	 }
-
-
         </style>
     </head>
     <body>
         <ul class="nav">
-            <li><a href="#examples"><i class="fas fa-question"></i> Examples</a></li>
-            <li><a href="#materials"><i class="fas fa-box"></i> Materials</a></li>
-            <li><a href="#setup"><i class="fas fa-wrench"></i> Setup</a></li>
-            <li><a href="#ready"><i class="fas fa-exclamation"></i> Ready</a></li>
-            <li><a href="#go"><i class="fas fa-camera"></i> Take it!</a></li>
-	    <li><a href="#pdf"><i class="fas fa-download"></i> PDF</a></li>
+            <li class="mobile-only"><a href="#examples"><i class="fas fa-question"></i>
+		Examples
+	    </a> </li>
+            <li class="mobile-only"><a href="#materials"><i class="fas fa-box"></i>
+		Materials
+	    </a></li>
+            <li class="mobile-only"><a href="#setup"><i class="fas fa-wrench"></i>
+		Setup
+	    </a></li>
+            <li class="mobile-only"><a href="#ready"><i class="fas fa-exclamation"></i>
+		Ready
+	    </a></li>
+            <li class="mobile-only"><a href="#go"><i class="fas fa-camera"></i>
+		Take it!
+	    </a></li>
+            <li class="mobile-only"><a href="#pdf"><i class="fas fa-download"></i>
+		PDF
+	    </a></li>
         </ul>
     </body>
 </html>
