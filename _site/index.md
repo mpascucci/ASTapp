@@ -17,7 +17,7 @@
      vertical-align : top;
      border-top : 1px dotted #fff !important;
  }
- 
+
 </style>
 
 # Introduction #
@@ -28,7 +28,7 @@ This document guides you thought the process of acquiring good quality AST (Anti
 Here you can find some examples of good and bad pictures of AST images.
 The picture in the first line are good examples. The other images illustrates common mistakes.
 
-<!-- 
+<!--
 
      | Examples of good pictures                     |                                               |
      |:----------------------------------------------|:----------------------------------------------|
@@ -41,20 +41,20 @@ The picture in the first line are good examples. The other images illustrates co
 
 <table>
     <thead>
-	<tr>
-	    <th style="text-align: left; width:50%;">Examples of good pictures</th>
-	    <th style="text-align: left; width:50%;"></th>
-	</tr>
+        <tr>
+            <th style="text-align: left; width:50%;">Examples of good pictures</th>
+            <th style="text-align: left; width:50%;"></th>
+        </tr>
     </thead>
     <tbody>
-	<tr>
-	    <td class="gbg"><i class="fas fa-check-circle gt"></i> Good picture.</td>
-	    <td class="gbg"><i class="fas fa-check-circle gt"></i> Good Picture.</td>
-	</tr>
-	<tr>
-	    <td class="gbg"><img src="images/IMG_20180107_183954.jpg" alt="bad picture" /></td>
-	    <td class="gbg"><img src="images/IMG_20180107_184123.jpg" alt="bad picture" /></td>
-	</tr>
+        <tr>
+            <td class="gbg"><i class="fas fa-check-circle gt"></i> Good picture.</td>
+            <td class="gbg"><i class="fas fa-check-circle gt"></i> Good Picture.</td>
+        </tr>
+        <tr>
+            <td class="gbg"><img src="images/IMG_20180107_183954.jpg" alt="bad picture" /></td>
+            <td class="gbg"><img src="images/IMG_20180107_184123.jpg" alt="bad picture" /></td>
+        </tr>
     </tbody>
 </table>
 
@@ -62,57 +62,57 @@ The picture in the first line are good examples. The other images illustrates co
 
 <table>
     <thead>
-	<tr>
-	    <th style="text-align: left; width:50%;">Examples of bad pictures</th>
-	    <th style="text-align: left; width : 50%;"> </th>
-	</tr>
+        <tr>
+            <th style="text-align: left; width:50%;">Examples of bad pictures</th>
+            <th style="text-align: left; width : 50%;"> </th>
+        </tr>
     </thead>
     <tbody>
-	<tr>
-	    <td class="top-label rbg"><i class="fas fa-times-circle rt"></i> Blurred picture, impossible to read the labels</td>
-	    <td class="top-label rbg"><i class="fas fa-times-circle rt"></i> The Petri dish not entirely in the picture (out of frame)</td>
-	</tr>
-	<tr>
-	    <td class="rbg"><img src="images/IMG_20180107_183257.jpg" alt="bad picture" /></td>
-	    <td class="rbg"><img src="images/bad_frame.jpg" alt="bad_picture" /></td>
-	</tr>
-	<tr>
-	    <td class="top-label rbg"><i class="fas fa-times-circle rt"></i> The background is not completely black</td>
-	    <td class="top-label rbg"><i class="fas fa-times-circle rt"></i> Picture taken from aside. Perspective distortion</td>
-	</tr>
-	<tr>
-	    <td class="rbg"><img src="images/IMG_20180130_205107.jpg" alt="bad picture" /></td>
-	    <td class="rbg"><img src="images/bad_perspective.jpg" alt="bad_picture" /></td>
-	</tr>
-	<tr>
-	    <td class="top-label rbg"><i class="fas fa-times-circle rt"></i> Light reflection</td>
-	    <td class="top-label rbg"><i class="fas fa-times-circle rt"></i> Operator’s reflection</td>
-	</tr>
-	<tr>
-	    <td class="rbg"><img src="images/bad_reflex.jpg" alt="bad_picture" /></td>
-	    <td class="rbg"><img src="images/IMG_20171225_182209_enhanced.jpg" alt="bad_picture" /></td>
-	</tr>
+        <tr>
+            <td class="top-label rbg"><i class="fas fa-times-circle rt"></i> Blurred picture, impossible to read the labels</td>
+            <td class="top-label rbg"><i class="fas fa-times-circle rt"></i> The Petri dish not entirely in the picture (out of frame)</td>
+        </tr>
+        <tr>
+            <td class="rbg"><img src="images/IMG_20180107_183257.jpg" alt="bad picture" /></td>
+            <td class="rbg"><img src="images/bad_frame.jpg" alt="bad_picture" /></td>
+        </tr>
+        <tr>
+            <td class="top-label rbg"><i class="fas fa-times-circle rt"></i> The background is not completely black</td>
+            <td class="top-label rbg"><i class="fas fa-times-circle rt"></i> Picture taken from aside. Perspective distortion</td>
+        </tr>
+        <tr>
+            <td class="rbg"><img src="images/IMG_20180130_205107.jpg" alt="bad picture" /></td>
+            <td class="rbg"><img src="images/bad_perspective.jpg" alt="bad_picture" /></td>
+        </tr>
+        <tr>
+            <td class="top-label rbg"><i class="fas fa-times-circle rt"></i> Light reflection</td>
+            <td class="top-label rbg"><i class="fas fa-times-circle rt"></i> Operator’s reflection</td>
+        </tr>
+        <tr>
+            <td class="rbg"><img src="images/bad_reflex.jpg" alt="bad_picture" /></td>
+            <td class="rbg"><img src="images/IMG_20171225_182209_enhanced.jpg" alt="bad_picture" /></td>
+        </tr>
     </tbody>
 </table>
 
 <!--
 
-| Examples of bad pictures                                                        |                                                            |
-|:--------------------------------------------------------------------------------|:-----------------------------------------------------------|
-| <i class="fas fa-times rt"></i> Blurred picture, impossible to read the labels. | The Petri dish not entirely in the picture (out of frame). |
-| ![bad picture][bad_blurred]                                                     | ![bad_picture][bad_oof]                                    |
-| The background is not completely black                                          | Picture taken from aside. Perspective distortion.          |
-| ![bad picture][bad_no_black]                                                    | ![bad_picture][bad_pers]                                   |
-| Light reflection                                                                | Operator's reflection                                      |
-| ![bad_picture][bad_reflex]                                                      | ![bad_picture][bad_op]                                     |
+     | Examples of bad pictures                                                        |                                                            |
+     |:--------------------------------------------------------------------------------|:-----------------------------------------------------------|
+     | <i class="fas fa-times rt"></i> Blurred picture, impossible to read the labels. | The Petri dish not entirely in the picture (out of frame). |
+     | ![bad picture][bad_blurred]                                                     | ![bad_picture][bad_oof]                                    |
+     | The background is not completely black                                          | Picture taken from aside. Perspective distortion.          |
+     | ![bad picture][bad_no_black]                                                    | ![bad_picture][bad_pers]                                   |
+     | Light reflection                                                                | Operator's reflection                                      |
+     | ![bad_picture][bad_reflex]                                                      | ![bad_picture][bad_op]                                     |
 
-[bad_no_black]:images/IMG_20180130_205107.jpg
+     [bad_no_black]:images/IMG_20180130_205107.jpg
 
-[bad_blurred]:images/IMG_20180107_183257.jpg
-[bad_op]:images/IMG_20171225_182209_enhanced.jpg
-[bad_oof]:images/bad_frame.jpg
-[bad_pers]:images/bad_perspective.jpg
-[bad_reflex]:images/bad_reflex.jpg
+     [bad_blurred]:images/IMG_20180107_183257.jpg
+     [bad_op]:images/IMG_20171225_182209_enhanced.jpg
+     [bad_oof]:images/bad_frame.jpg
+     [bad_pers]:images/bad_perspective.jpg
+     [bad_reflex]:images/bad_reflex.jpg
 
 -->
 
@@ -153,11 +153,11 @@ Put the cardboard on top of the two stands (see fig. 2)
 | ![](images/protocol_setup.jpg) |
 
 - On your smartphone, open the camera application and do the following:
-	1. deactivate the flash light.
-	2. set the countdown timer to 5 seconds.
-	3. select the program "AUTO"
-	4. select the largest size (maximum megapixels) and the highest quality (100%). 
-	
+1. deactivate the flash light.
+2. set the countdown timer to 5 seconds.
+3. select the program "AUTO"
+4. select the largest size (maximum megapixels) and the highest quality (100%).
+
 
 | figure 3                        |                                        |
 |:--------------------------------|----------------------------------------|
@@ -173,7 +173,7 @@ If the camera application is open and running, you can see the image on your sma
 Make sure that the picture's background is all black and that the AST is entirely in the picture.
 The AST should be as large as possible in the picture, with just a small black border around.
 
-	
+
 | figure 4                                                 |
 |:---------------------------------------------------------|
 | <img src="images/protocol_setup_final.jpg" width="100%"> |
@@ -192,16 +192,35 @@ Check that:
 
 ## <a name="go"></a> Take the picture ##
 
-Take the picture and check the quality. Zoom in on the labels to make sure that they are not blurred. 
+Take the picture and check the quality. Zoom in on the labels to make sure that they are not blurred.
 Optimize the setup until you are satisfied with the picture quality.
 By following this protocol you should be able to take pictures of the same quality as the good images in the [example section](#examples) at the beginning of this document.
 
 After taking a picture, make sure that all the following conditions are satisfied:
-   - The AST is entirely in the picture and does not touch the image borders.
-   - If the AST is square, its border should be parallel to the image borders.
-   - There is no strong perspective distortion.
-   - The antibiotics labels are sharp and easy to read.
+- The AST is entirely in the picture and does not touch the image borders.
+- If the AST is square, its border should be parallel to the image borders.
+- There is no strong perspective distortion.
+- The antibiotics labels are sharp and easy to read.
 
-## <a name="pdf"></a> Download ##
+# <a name="pdf"></a> Download #
 
-Download the <a href="assets/downloads/Brochure_MSF_ASTapp_V6_EN.pdf"> portable PDF version</a> of this image acquisition protocol.
+<style>
+ a.menuitem:hover{
+     color:red;
+ }
+</style>
+
+<table>
+    <tr>
+        <td>
+	    <a class="menuitem" href="assets/downloads/Brochure_MSF_ASTapp_V6_EN.pdf">
+		<i class="fas fa-download" style="font-size:3em;display:inline-block;"></i>
+	    </a>
+        </td>
+        <td style="vertical-align:center;">
+	    <a class="menuitem" href="assets/downloads/Brochure_MSF_ASTapp_V6_EN.pdf">
+		Download the PDF version of this image acquisition protocol.
+	    </a>
+        </td>
+    </tr>
+</table>
