@@ -13,6 +13,10 @@
  .gbg {
      background-color:#cec;
  }
+ td.top-label {
+     vertical-align : top;
+     border-top : 1px dotted #fff !important;
+ }
  
 </style>
 
@@ -44,8 +48,8 @@ The picture in the first line are good examples. The other images illustrates co
     </thead>
     <tbody>
 	<tr>
-	    <td class="gbg"><i class="fas fa-check gt"></i> Good picture.</td>
-	    <td class="gbg"><i class="fas fa-check gt"></i> Good Picture.</td>
+	    <td class="gbg"><i class="fas fa-check-circle gt"></i> Good picture.</td>
+	    <td class="gbg"><i class="fas fa-check-circle gt"></i> Good Picture.</td>
 	</tr>
 	<tr>
 	    <td class="gbg"><img src="images/IMG_20180107_183954.jpg" alt="bad picture" /></td>
@@ -65,24 +69,24 @@ The picture in the first line are good examples. The other images illustrates co
     </thead>
     <tbody>
 	<tr>
-	    <td class="rbg"><i class="fas fa-times rt"></i> Blurred picture, impossible to read the labels</td>
-	    <td class="rbg"><i class="fas fa-times rt"></i> The Petri dish not entirely in the picture (out of frame)</td>
+	    <td class="top-label rbg"><i class="fas fa-times-circle rt"></i> Blurred picture, impossible to read the labels</td>
+	    <td class="top-label rbg"><i class="fas fa-times-circle rt"></i> The Petri dish not entirely in the picture (out of frame)</td>
 	</tr>
 	<tr>
 	    <td class="rbg"><img src="images/IMG_20180107_183257.jpg" alt="bad picture" /></td>
 	    <td class="rbg"><img src="images/bad_frame.jpg" alt="bad_picture" /></td>
 	</tr>
 	<tr>
-	    <td class="rbg"><i class="fas fa-times rt"></i> The background is not completely black</td>
-	    <td class="rbg"><i class="fas fa-times rt"></i> Picture taken from aside. Perspective distortion</td>
+	    <td class="top-label rbg"><i class="fas fa-times-circle rt"></i> The background is not completely black</td>
+	    <td class="top-label rbg"><i class="fas fa-times-circle rt"></i> Picture taken from aside. Perspective distortion</td>
 	</tr>
 	<tr>
 	    <td class="rbg"><img src="images/IMG_20180130_205107.jpg" alt="bad picture" /></td>
 	    <td class="rbg"><img src="images/bad_perspective.jpg" alt="bad_picture" /></td>
 	</tr>
 	<tr>
-	    <td class="rbg"><i class="fas fa-times rt"></i> Light reflection</td>
-	    <td class="rbg"><i class="fas fa-times rt"></i> Operator’s reflection</td>
+	    <td class="top-label rbg"><i class="fas fa-times-circle rt"></i> Light reflection</td>
+	    <td class="top-label rbg"><i class="fas fa-times-circle rt"></i> Operator’s reflection</td>
 	</tr>
 	<tr>
 	    <td class="rbg"><img src="images/bad_reflex.jpg" alt="bad_picture" /></td>
