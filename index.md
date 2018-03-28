@@ -25,8 +25,8 @@ This document guides you thought the process of acquiring good quality AST (Anti
 
 # <a name="examples"></a> Examples #
 
-Here you can find some examples of good and bad pictures of AST images.
-The picture in the first line are good examples. The other images illustrates common mistakes.
+In this section you can find some examples of good and bad pictures of AST images.
+The picture in the first table are good examples. The other table illustrates common mistakes.
 
 <!--
 
