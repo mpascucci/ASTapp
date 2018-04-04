@@ -21,7 +21,7 @@
 </style>
 
 # Introduction #
-This document guides you thought the process of acquiring good quality AST (Antimicrobial Susceptibility Testing) images with a smartphone or a tablet.
+This document guides you through the process of acquiring good quality AST (Antimicrobial Susceptibility Testing) images with a smartphone or a tablet.
 
 # <a name="examples"></a> Examples #
 
