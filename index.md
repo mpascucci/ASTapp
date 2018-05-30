@@ -202,6 +202,15 @@ After taking a picture, make sure that all the following conditions are satisfie
 - There is no strong perspective distortion.
 - The antibiotics labels are sharp and easy to read.
 
+## <a name="upload"></a> Upload as it is ##
+Now just take the picture file and upload it as it is, following the given instructions. If you are not sure about how to upload, contact a person on charge or directly Marco Pascucci at the MSF Fundation.
+
+<b>Very important</b>: Do not do any post processing of the image. Do not crop it, do not resize or compress it. Just send it as it comes out of your acquisition device.
+
+For examle, do not try to crop the image to eliminate the black border around the Petri-dish. This border must always be present in the pictures, as you can see in the following example:
+<div style='text-align:center;'><img src="images/black_border.png" width="80%"></div>
+
+
 # <a name="pdf"></a> Download #
 
 <style>
